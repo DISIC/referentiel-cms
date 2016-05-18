@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<title>Notes techniques - Référentiel RGAA-CMS</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/print.css" type="text/css" media="print">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<div class="wrapper" id="top">
+
+	<div class="config">
+		<header role="banner" class="header inside clear" id="banner">
+			<h1>Référentiel RGAA-CMS</h1>
+			<ul class="skip-links">
+				<li><a href="#nav">navigation</a></li>
+				<li><a href="#main">contenu</a></li>
+			</ul>
+		</header>
+
+		<div class="github-link">
+			<p><a href="https://github.com/DISIC/RGAA-CMS">Contribuer / Télécharger</a></p>
+		</div>
+
+	</div>
+
+	<div class="inside">
+
+		<div class="left menu">
+			<h2 id="som-ref">Sommaire</h2>
+			<nav role="navigation" aria-labelledby="som-ref" class="them-navigation" id="nav">
+				<ul>
+					<li><a href="index.html">Introduction</a></li>
+					<li><a href="methodo.html">Méthodologie</a></li>
+					<li><a href="criteres.html">Référentiel technique</a></li>
+					<li><a href="cas-particuliers.html">Cas particuliers</a></li>
+					<li><a href="glossaire.html">Glossaire</a></li>
+					<li><a href="notes-techniques.html">Notes techniques</a></li>
+					<li><a href="mappage.html">Mappage ATAG 2.0</a></li>
+				</ul>
+			</nav>
+		</div>
+	
+		<div class="right">
+			<main role="main" id="main">
+				<h1>Notes techniques</h1>
+				<article class="article">
+					<h2 id="NT-c1.1.2.3">Note technique pour les critères 1.1, 1.2 et 1.3 relative à la construction de l'échantillon de test</h2>
+					<p>À l'image d'un audit d'un site web, la construction de l'échantillon pour l'audit RGAA d'un CMS doit se baser sur la nature essentielle des pages. À ce titre, il est recommandé pour ces tests, de choisir, si elles existent, au moins les types de pages suivantes&nbsp;:</p>
+					<ul>
+					<li>les pages de la documentation (si la documentation est intégrée à l'outil)&nbsp;;</li>
+					<li>l'index de la documentation (s'il est différencié de la page de la documentation)&nbsp;;</li>
+					<li>les pages de configurations globales du CMS (les paramètres généraux par exemple)&nbsp;;</li>
+					<li>les pages de configurations spécifiques (page de sélection d'un gabarit, page pour la configuration du menu, etc.)&nbsp;;</li>
+					<li>les pages qui présentent les contenus non textuels (la gestion d'une bibliothèque multimédia par exemple)&nbsp;;</li>
+					<li>les pages d'édition courantes (édition d'un article, édition d'une page…)&nbsp;;</li>
+					<li>toute autre page nécessaire à un auteur pour contribuer.</li>
+					</ul>
+				</article>
+				<article class="article">
+					<h2 id="NT-c1.8.9.10">Note technique pour les critères 1.8, 1.9, 1.10</h2>
+					<p>Les outils d'édition peuvent proposer des fonctionnalités de transcodage d'un format d'entrée vers un format de sortie. L'objectif des critères 1.8, 1.9 et 1.10 est de s'assurer que toutes les fonctionnalités d'accessibilité sont préservées, lorsqu'il existe des mécanismes équivalents dans le format de sortie. Dans le cas inverse, l'auteur doit être prévenu des pertes éventuelles d'accessibilité liées à l'absence ou aux limitations propres au format de sortie.</p>
+					<p>Ainsi, le format txt a un support limité de l'accessibilité, car il ne prend en charge qu'un nombre limité de structures via des conventions de formatage. Les titres peuvent notamment être indiqués par une ligne vide avant et après le titre et les listes par un marqueur visible, un tiret par exemple.</p>
+					<p>Il convient donc de vérifier deux choses&nbsp;:</p>
+					<ul>
+					<li>Si le format de sortie est limité, l'auteur est-il prévenu des pertes potentielles d'accessibilité&nbsp;?</li>
+					<li>Pour tous les mécanismes équivalents dans le format de sortie, les informations relatives à l'accessibilité sont-elles préservées ou adaptées (exemple : images remplacées par leurs alternatives au format txt)&nbsp;?</li>
+					</ul>
+					<p>Exemple d'application : cas des indications de langues dans le format txt.</p>
+					<p>On évalue une fonctionnalité d'exportation vers le format txt. On constate que pour tous les mécanismes propres au format txt (titre, liste, alternatives d'images…), les informations sont préservées. On constate par ailleurs que l'outil prévient que des informations d'accessibilité pourraient être perdues.</p>
+					<p>Le critère est conforme.</p>
+					<p>Dans le format d'entrée (par exemple HTML), il y a des indications de langue qui n'ont pas d'équivalent dans le format de sortie en txt. Pour ce problème, bien qu'il s'agisse d'une perte d'accessibilité, le critère reste conforme si l'auteur est prévenu. À lui de trouver une solution spécifique, par exemple en traduisant les termes ou en proposant une version accessible.</p>
+				</article>
+				<article class="article">
+					<h2 id="NT-c2.1">Note technique pour le critère 2.1</h2>
+					<p>Les modifications de configuration de l'interface incluent également les mises à jour.</p>
+					<p>Si l'interface permet de réaliser les mises à jour de l'outil, dans ce cas précis, il est admis que la réversibilité de l'action ne soit pas possible. Dans ce cas, l'auteur doit être averti du caractère irréversible des modifications et doit confirmer la modification, par exemple la mise à jour vers une nouvelle version, avant son exécution.</p>
+				</article>
+				<article class="article">
+					<h2 id="NT-c4.1">Note technique pour le critère 4.1</h2>
+					<p>Bien qu'il existe dans le RGAA&nbsp;3.0 de nombreux tests pour évaluer l'accessibilité des éléments non textuels (présence des attributs obligatoires pour les éléments <code>img</code> ou <code>iframe</code> par exemple), ce test est différent.</p>
+					<p>En effet, la zone d'édition peut utiliser un balisage d'édition différent du balisage de sortie. Ce balisage d'édition peut être un balisage indépendant d'une technologie web standard et peut ne pas trouver de correspondance dans les critères du RGAA&nbsp;3.0 basés sur HTML.</p>
+					<p>Les attributs ou propriétés ne peuvent pas être prévisibles dans ce cas. Il est donc utile pour ce test, de réaliser des tests de restitution avec les lecteurs d'écran de la base de référence, pour s'assurer que les alternatives des contenus non textuels sont effectivement restituées.</p>
+				</article>
+		</main>
+
+	</div>
+		<footer id="footer" role="contentinfo" class="clear">
+				<h2>Licence d'utilisation</h2>
+				<p class="logo-smgap"><a href="http://references.modernisation.gouv.fr/"><img src="img/modernisation-logo.jpg" alt="Secrétariat général pour le modernisation de l'action publique"></a></p>
+				<p>Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence">licence ouverte 1.0 ou ultérieure</a>, équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le <a href="https://github.com/DISIC">compte <span lang="en">GitHub</span> de la DInSIC</a>.</p>
+
+			</footer>
+</div>
+
+</div>
+
+</body>
+
