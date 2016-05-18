@@ -4,7 +4,7 @@ Cette ressource est publiée dans le cadre des ressources d'accompagnement à la
 
 # Sommaire du référentiel RGAA-CMS
 
-- [Introduction](introduction.md)
+- [Introduction](intro.md)
 - [Référentiel technique](criteres.md)
 - [Cas particuliers](cas-particuliers.md)
 - [Glossaire](glossaire.md)
