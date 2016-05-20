@@ -1,3 +1,4 @@
+[![le logo licence ouverte][logo]][licence]
 # Licence
 Ces documents sont des documents de l'État français placés sous licence ouverte 1.0 ou ultérieure. Vous trouverez des précisions sur cette licence sur le [blog de la mission etalab](http://www.etalab.gouv.fr/licence-ouverte-open-licence).
 
@@ -10,3 +11,8 @@ Vous êtes libres de&nbsp;:
 Ces libertés s'appliquent sous réserve de mentionner la paternité de l'information d'origine : sa source et la date de sa dernière mise à jour. Le réutilisateur  peut notamment s'acquitter de cette condition en indiquant un ou des liens hypertextes (URL) renvoyant vers le présent dépôt et assurant une mention effective de sa paternité.
 
 Cette mention de paternité ne doit ni conférer un caractère officiel à la réutilisation de ces informations, ni suggérer une quelconque reconnaissance ou caution par le producteur de l'information, ou par toute autre entité publique, du réutilisateur ou de sa réutilisation.
+
+[logo]: https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif
+{: height="36px" width="36px"}
+
+[licence]: http://www.etalab.gouv.fr/licence-ouverte-open-licence
