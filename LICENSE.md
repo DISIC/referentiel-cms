@@ -13,6 +13,5 @@ Ces libertés s'appliquent sous réserve de mentionner la paternité de l'inform
 Cette mention de paternité ne doit ni conférer un caractère officiel à la réutilisation de ces informations, ni suggérer une quelconque reconnaissance ou caution par le producteur de l'information, ou par toute autre entité publique, du réutilisateur ou de sa réutilisation.
 
 [logo]: https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif
-{: height="36px" width="36px"}
 
 [licence]: http://www.etalab.gouv.fr/licence-ouverte-open-licence
