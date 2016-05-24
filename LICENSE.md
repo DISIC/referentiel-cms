@@ -1,5 +1,6 @@
 
-# <img src="https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif" alt="ogo licence ouverte" width="30%">&nbsp;Licence
+<img src="https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif" alt="ogo licence ouverte" width="30%">
+# Licence
 Ces documents sont des documents de l'État français placés sous licence ouverte 1.0 ou ultérieure. Vous trouverez des précisions sur cette licence sur le [blog de la mission etalab](http://www.etalab.gouv.fr/licence-ouverte-open-licence).
 
 Vous êtes libres de&nbsp;:
