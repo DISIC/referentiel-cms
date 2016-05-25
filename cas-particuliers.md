@@ -38,10 +38,10 @@ Dans ces cas, le critère est non applicable.
 
 Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](https://www.etalab.gouv.fr/licence-ouverte-open-licence), équivalente à une licence <span lang="en">Creative Commons BY</span>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">GitHub</span> de la DInSIC](https://github.com/DISIC).
 
-## Sommaire du référentiel RGAA-CMS
+## Sommaire du référentiel CMS
 
 - [Introduction](intro.md)
-- [Méthodologie d'utilisation du référentiel RGAA-CMS](methodo.md)
+- [Méthodologie d'utilisation du référentiel CMS](methodo.md)
 - [Référentiel technique](criteres.md)
 - [Cas particuliers](cas-particuliers.md)
 - [Glossaire](glossaire.md)
