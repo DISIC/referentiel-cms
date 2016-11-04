@@ -345,7 +345,7 @@ Par exemple, un CMS fournit à l'auteur un lien qu'il peut utiliser pour jouer l
 
 ### <a name="GproprietesPresentationElements"></a>Propriétés de présentation des éléments
 
-Les propriétés de présentation des éléments des zones d'édition permettent la mise en forme de ces éléments (couleur, gras, style etc.). Ces propriétés doivent être accessibles (si elles sont visibles, c'est-à-dire rendues) dans les zones d'édition. Elles doivent donc utiliser des mécanismes compatibles avec le service d'accessibilité de la plateforme pour pouvoir être restituées aux technologies d'assistance. Par exemple : les balises de mises en forme autorisées dans RGAA&nbsp;3.0, les feuilles de styles CSS et les styles en ligne (via l'attribut `style`) sont des mécanismes conformes.
+Les propriétés de présentation des éléments des zones d'édition permettent la mise en forme de ces éléments (couleur, gras, style etc.). Ces propriétés doivent être accessibles (si elles sont visibles, c'est-à-dire rendues) dans les zones d'édition. Elles doivent donc utiliser des mécanismes compatibles avec le service d'accessibilité de la plateforme pour pouvoir être restituées aux technologies d'assistance. Par exemple : les balises de mises en forme autorisées dans RGAA&nbsp;3&nbsp;2016, les feuilles de styles CSS et les styles en ligne (via l'attribut `style`) sont des mécanismes conformes.
 
 ---
 
@@ -396,7 +396,7 @@ Généralement une session d'édition prend fin lorsque l'auteur quitte la page 
 
 Procédé qui permet d'évaluer l'accessibilité des contenus. 3 types de tests sont reconnus.
 
-Le référentiel ne contraint pas un critère RGAA&nbsp;3.0 à être testé selon un type de test particulier. Les 3 types de tests sont acceptables s'ils sont correctement implémentés.
+Le référentiel ne contraint pas un critère RGAA&nbsp;3 à être testé selon un type de test particulier. Les 3 types de tests sont acceptables s'ils sont correctement implémentés.
 
 #### Test d'accessibilité manuel
 

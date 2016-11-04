@@ -39,9 +39,9 @@ Si l'interface permet de réaliser les mises à jour de l'outil, dans ce cas pr�
 
 ## <a name="NT-c4.1"></a>Note technique pour le critère 4.1
 
-Bien qu'il existe dans le RGAA&nbsp;3.0 de nombreux tests pour évaluer l'accessibilité des éléments non textuels (présence des attributs obligatoires pour les éléments <code>img</code> ou <code>iframe</code> par exemple), ce test est différent.
+Bien qu'il existe dans le RGAA&nbsp;3&nbsp;2016 de nombreux tests pour évaluer l'accessibilité des éléments non textuels (présence des attributs obligatoires pour les éléments <code>img</code> ou <code>iframe</code> par exemple), ce test est différent.
 
-En effet, la zone d'édition peut utiliser un balisage d'édition différent du balisage de sortie. Ce balisage d'édition peut être un balisage indépendant d'une technologie web standard et peut ne pas trouver de correspondance dans les critères du RGAA&nbsp;3.0 basés sur HTML.
+En effet, la zone d'édition peut utiliser un balisage d'édition différent du balisage de sortie. Ce balisage d'édition peut être un balisage indépendant d'une technologie web standard et peut ne pas trouver de correspondance dans les critères du RGAA&nbsp;3&nbsp;2016 basés sur HTML.
 
 Les attributs ou propriétés ne peuvent pas être prévisibles dans ce cas. Il est donc utile pour ce test, de réaliser des tests de restitution avec les lecteurs d'écran de la base de référence, pour s'assurer que les alternatives des contenus non textuels sont effectivement restituées.
 

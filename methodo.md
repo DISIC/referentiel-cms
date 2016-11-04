@@ -18,27 +18,27 @@ Il est conseillé aux administrateurs des permissions d'utilisateurs de veiller 
 
 ### Méthodologie d'utilisation de ce référentiel
 
-Pour certains critères, il est demandé de respecter le RGAA&nbsp;3.0. Dans ces cas, vous devez utiliser le RGAA&nbsp;3.0 pour contrôler les types de contenus concernés.
+Pour certains critères, il est demandé de respecter le RGAA&nbsp;3&nbsp;2016. Dans ces cas, vous devez utiliser le RGAA pour contrôler les types de contenus concernés.
 
 #### Exemple du [critère du référentiel CMS 6.6](criteres.md#c6-6)
 
-Le critère demande à ce que les fonctionnalités d'édition avancée permettent de renseigner des informations d'accessibilité de niveau RGAA&nbsp;3.0 A. Dans ce cas, il faut repérer ces fonctionnalités dans l'interface et dans les zones d'édition.
+Le critère demande à ce que les fonctionnalités d'édition avancée permettent de renseigner des informations d'accessibilité de niveau RGAA&nbsp;3&nbsp;2016 A. Dans ce cas, il faut repérer ces fonctionnalités dans l'interface et dans les zones d'édition.
 
-Pour le cas d'un bouton d'insertion d'image qui ouvre une boîte de dialogue, vous devez vous référer à la thématique Images du RGAA&nbsp;3.0 et vérifier que les informations nécessaires sont éditables par les auteurs.
+Pour le cas d'un bouton d'insertion d'image qui ouvre une boîte de dialogue, vous devez vous référer à la thématique Images du RGAA&nbsp;3&nbsp;2016 et vérifier que les informations nécessaires sont éditables par les auteurs.
 
-Le critère 1.3 du RGAA&nbsp;3.0 demande à ce que les images porteuses d'informations aient une alternative pertinente. Vous devez donc vous assurer que l'auteur peut définir cette alternative. Pour les images (balise <code>img</code>), l'auteur doit pouvoir éditer un champ dont la valeur sera implémentée dans l'attribut <code>alt</code> de l'image dans le contenu généré. Si la boîte de dialogue ne fournit que la possibilité de choisir l'image, mais n'offre aucun autre champ permettant de saisir une alternative, alors la fonctionnalité n'est pas conforme.
+Le critère 1.3 du RGAA&nbsp;3&nbsp;2016 demande à ce que les images porteuses d'informations aient une alternative pertinente. Vous devez donc vous assurer que l'auteur peut définir cette alternative. Pour les images (balise <code>img</code>), l'auteur doit pouvoir éditer un champ dont la valeur sera implémentée dans l'attribut <code>alt</code> de l'image dans le contenu généré. Si la boîte de dialogue ne fournit que la possibilité de choisir l'image, mais n'offre aucun autre champ permettant de saisir une alternative, alors la fonctionnalité n'est pas conforme.
 
 #### Exemple du [critère du référentiel CMS 5.1](criteres.md#c5-1)
 
-Le critère demande à ce que l'outil propose un test de l'accessibilité des contenus. Dans ces cas, l'outil doit créer des tests pour tous les critères du RGAA&nbsp;3.0, même les tests non automatisables et qui nécessiteraient une validation humaine par la suite. 
+Le critère demande à ce que l'outil propose un test de l'accessibilité des contenus. Dans ces cas, l'outil doit créer des tests pour tous les critères du RGAA&nbsp;3&nbsp;2016, même les tests non automatisables et qui nécessiteraient une validation humaine par la suite. 
 
-Par exemple, selon la thématique Cadres du RGAA&nbsp;3.0, un cadre doit posséder un <code>title</code> renseigné. L'outil doit alors contrôler la présence de l'attribut <code>title</code> sur tous les cadres insérés par l'auteur.
+Par exemple, selon la thématique Cadres du RGAA&nbsp;3&nbsp;2016, un cadre doit posséder un <code>title</code> renseigné. L'outil doit alors contrôler la présence de l'attribut <code>title</code> sur tous les cadres insérés par l'auteur.
 
-Le critère 2.2 du RGAA&nbsp;3.0 demande à ce que ce <code>title</code> soit pertinent. Le test d'accessibilité doit en informer l'auteur et lui indiquer qu'il est possible que le <code>title</code> renseigné ne le soit pas.
+Le critère 2.2 du RGAA&nbsp;3&nbsp;2016 demande à ce que ce <code>title</code> soit pertinent. Le test d'accessibilité doit en informer l'auteur et lui indiquer qu'il est possible que le <code>title</code> renseigné ne le soit pas.
 
 #### Les pages à choisir pour l'évaluation
 
-Pour évaluer la conformité au référentiel CMS, il est utile de construire l'échantillon à tester. Dans le cas du référentiel CMS, contrairement à RGAA 3.0, ce sont les fonctionnalités plutôt que les pages qui sont au centre de l'évaluation. Il est donc normal de se baser sur les thématiques définies dans le référentiel CMS pour établir la liste des fonctionnalités à auditer dans ce cadre. Par exemple&nbsp;:
+Pour évaluer la conformité au référentiel CMS, il est utile de construire l'échantillon à tester. Dans le cas du référentiel CMS, contrairement à RGAA&nbsp;3&nbsp;2016, ce sont les fonctionnalités plutôt que les pages qui sont au centre de l'évaluation. Il est donc normal de se baser sur les thématiques définies dans le référentiel CMS pour établir la liste des fonctionnalités à auditer dans ce cadre. Par exemple&nbsp;:
 - les différents types de zones d'édition disponibles dans le CMS (éditeur de texte riche, champ de saisie simple etc.)&nbsp;;
 - les templates disponibles par défaut&nbsp;;
 - les objets pré-intégrés (images, textes, formulaires&hellip;)&nbsp;;

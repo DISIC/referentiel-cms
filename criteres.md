@@ -16,36 +16,36 @@
 
 *L'[interface](glossaire.md#Ginterface) de l'outil d'édition doit être accessible. La présentation des fonctionnalités d'accessibilité doit inciter à leur utilisation. Les processus automatiques de génération de code et les fonctionnalités d'édition doivent produire des contenus accessibles.*
 
-### <a name="c1-1"></a>Critère 1.1 [A] L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3.0 de niveau A&nbsp;?
+### <a name="c1-1"></a>Critère 1.1 [A] L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3 de niveau A&nbsp;?
 
-#### Test 1.1.1 L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3.0 de niveau A&nbsp;?
-
-##### Correspondances
-- ATAG&nbsp;: [A.1.1.1](http://www.w3.org/TR/ATAG20/#sc_a111)
-
-<p><a href="notes-techniques.md#NT-c1.1.2.3">Consulter la note technique pour les critères 1.1, 1.2 et 1.3 relative à la construction de l'échantillon de test.</a></p>
-
-### <a name="c1-2"></a>Critère 1.2 [AA] L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3.0 de niveau AA&nbsp;?
-
-#### Test 1.1.1 L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3.0 de niveau AA&nbsp;?
+#### Test 1.1.1 L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3 de niveau A&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [A.1.1.1](http://www.w3.org/TR/ATAG20/#sc_a111)
 
 <p><a href="notes-techniques.md#NT-c1.1.2.3">Consulter la note technique pour les critères 1.1, 1.2 et 1.3 relative à la construction de l'échantillon de test.</a></p>
 
-### <a name="c1-3"></a>Critère 1.3 [AAA] L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3.0 de niveau AAA&nbsp;?
+### <a name="c1-2"></a>Critère 1.2 [AA] L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3 de niveau AA&nbsp;?
 
-#### Test 1.1.1 L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3.0 de niveau AAA&nbsp;?
+#### Test 1.1.1 L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3 de niveau AA&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [A.1.1.1](http://www.w3.org/TR/ATAG20/#sc_a111)
 
 <p><a href="notes-techniques.md#NT-c1.1.2.3">Consulter la note technique pour les critères 1.1, 1.2 et 1.3 relative à la construction de l'échantillon de test.</a></p>
 
-### <a name="c1-4"></a>Critère 1.4 [A] Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3.0 A respecte-t-elle une de ces conditions&nbsp;? 
+### <a name="c1-3"></a>Critère 1.3 [AAA] L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3 de niveau AAA&nbsp;?
 
-#### Test 1.4.1 Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA 3.0 A respecte-t-elle une de ces conditions&nbsp;? 
+#### Test 1.1.1 L'[interface](glossaire.md#Ginterface) respecte-t-elle les recommandations RGAA&nbsp;3 de niveau AAA&nbsp;?
+
+##### Correspondances
+- ATAG&nbsp;: [A.1.1.1](http://www.w3.org/TR/ATAG20/#sc_a111)
+
+<p><a href="notes-techniques.md#NT-c1.1.2.3">Consulter la note technique pour les critères 1.1, 1.2 et 1.3 relative à la construction de l'échantillon de test.</a></p>
+
+### <a name="c1-4"></a>Critère 1.4 [A] Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3 A respecte-t-elle une de ces conditions&nbsp;? 
+
+#### Test 1.4.1 Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3 A respecte-t-elle une de ces conditions&nbsp;? 
 
 - Aucune autre fonctionnalité ne permet de réaliser la même action.
 - La fonctionnalité est [présentée au même niveau](glossaire.md#GmemeNiveauPresentation) qu'une fonctionnalité qui permet de réaliser la même action, mais de manière non accessible.
@@ -53,9 +53,9 @@
 ##### Correspondances
 - ATAG&nbsp;: [B.2.2.1](http://www.w3.org/TR/ATAG20/#sc_b221)
 
-### <a name="c1-5"></a>Critère 1.5 [AA] Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3.0 AA respecte-t-elle une de ces conditions&nbsp;? 
+### <a name="c1-5"></a>Critère 1.5 [AA] Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3 AA respecte-t-elle une de ces conditions&nbsp;? 
 
-#### Test 1.5.1 Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA 3.0 AA respecte-t-elle une de ces conditions&nbsp;? 
+#### Test 1.5.1 Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3 AA respecte-t-elle une de ces conditions&nbsp;? 
 
 - Aucune autre fonctionnalité ne permet de réaliser la même action.
 - La fonctionnalité est [présentée au même niveau](glossaire.md#GmemeNiveauPresentation) qu'une fonctionnalité qui permet de réaliser la même action, mais de manière non accessible.
@@ -63,9 +63,9 @@
 ##### Correspondances
 - ATAG&nbsp;: [B.2.2.1](http://www.w3.org/TR/ATAG20/#sc_b221)
 
-### <a name="c1-6"></a>Critère 1.6 [AAA] Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3.0 AAA respecte-t-elle une de ces conditions&nbsp;? 
+### <a name="c1-6"></a>Critère 1.6 [AAA] Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3 AAA respecte-t-elle une de ces conditions&nbsp;? 
 
-#### Test 1.6.1 Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA 3.0 AAA respecte-t-elle une de ces conditions&nbsp;? 
+#### Test 1.6.1 Chaque [fonctionnalité d'édition](glossaire.md#GfonctionnaliteEdition) dédiée à la création de contenus accessibles de niveau RGAA&nbsp;3 AAA respecte-t-elle une de ces conditions&nbsp;? 
 
 - Aucune autre fonctionnalité ne permet de réaliser la même action.
 - La fonctionnalité est [présentée au même niveau](glossaire.md#GmemeNiveauPresentation) qu'une fonctionnalité qui permet de réaliser la même action, mais de manière non accessible.
@@ -84,11 +84,11 @@
 
 #### Test 1.8.1 Chaque [transformation des contenus](glossaire.md#GtransformationContenu) respecte-t-elle une de ces conditions&nbsp;?
 
-- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 A sont préservées [dans le contenu généré](glossaire.md#Gcontenugenere).
-- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 A sont adaptées [dans le contenu généré](glossaire.md#Gcontenugenere).
-- L'auteur est averti que des [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 A seront perdues.
-- L'outil effectue un [test automatique de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 A.
-- L'auteur est invité explicitement à réaliser un [test de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 A.
+- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 A sont préservées [dans le contenu généré](glossaire.md#Gcontenugenere).
+- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 A sont adaptées [dans le contenu généré](glossaire.md#Gcontenugenere).
+- L'auteur est averti que des [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 A seront perdues.
+- L'outil effectue un [test automatique de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 A.
+- L'auteur est invité explicitement à réaliser un [test de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 A.
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.2.1](http://www.w3.org/TR/ATAG20/#sc_b121) - [B.1.2.4](http://www.w3.org/TR/ATAG20/#sc_b124)
@@ -99,11 +99,11 @@
 
 #### Test 1.9.1 Chaque [transformation des contenus](glossaire.md#GtransformationContenu) respecte-t-elle une de ces conditions&nbsp;?
 
-- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AA sont préservées [dans le contenu généré](glossaire.md#Gcontenugenere).
-- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AA sont adaptées [dans le contenu généré](glossaire.md#Gcontenugenere).
-- L'auteur est averti que des [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AA seront perdues.
-- L'outil effectue un [test automatique de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AA.
-- L'auteur est invité explicitement à réaliser un [test de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AA.
+- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AA sont préservées [dans le contenu généré](glossaire.md#Gcontenugenere).
+- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AA sont adaptées [dans le contenu généré](glossaire.md#Gcontenugenere).
+- L'auteur est averti que des [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AA seront perdues.
+- L'outil effectue un [test automatique de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AA.
+- L'auteur est invité explicitement à réaliser un [test de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AA.
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.2.1](http://www.w3.org/TR/ATAG20/#sc_b121)
@@ -115,11 +115,11 @@
 
 #### Test 1.10.1 Chaque [transformation des contenus](glossaire.md#GtransformationContenu) respecte-t-elle une de ces conditions&nbsp;?
 
-- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AAA sont préservées [dans le contenu généré](glossaire.md#Gcontenugenere).
-- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AAA sont adaptées [dans le contenu généré](glossaire.md#Gcontenugenere).
-- L'auteur est averti que des [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AAA seront perdues.
-- L'outil effectue un [test automatique de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AAA.
-- L'auteur est invité explicitement à réaliser un [test de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AAA.
+- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AAA sont préservées [dans le contenu généré](glossaire.md#Gcontenugenere).
+- Les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AAA sont adaptées [dans le contenu généré](glossaire.md#Gcontenugenere).
+- L'auteur est averti que des [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AAA seront perdues.
+- L'outil effectue un [test automatique de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AAA.
+- L'auteur est invité explicitement à réaliser un [test de l'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AAA.
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.2.1](http://www.w3.org/TR/ATAG20/#sc_b121)
@@ -137,14 +137,14 @@
 
 #### Test 1.12.1 Chaque fonctionnalité de [génération automatique de contenu](glossaire.md#Gcontenugenere) après la [session d'édition](glossaire.md#Gsessiondedition) respecte-t-elle une de ces conditions ([hors cas particuliers](cas-particuliers.md#CP-c1.12.13.14))&nbsp;?
 
-- Les contenus générés sont conformes au niveau RGAA&nbsp;3.0 A.
-- L'auteur peut paramétrer la fonctionnalité pour produire des contenus générés conformes au niveau RGAA&nbsp;3.0&nbsp;A.
+- Les contenus générés sont conformes au niveau RGAA&nbsp;3 A.
+- L'auteur peut paramétrer la fonctionnalité pour produire des contenus générés conformes au niveau RGAA&nbsp;3&nbsp;A.
 
 #### Test 1.12.2 Chaque fonctionnalité de [génération automatique de contenu](glossaire.md#Gcontenugenere) pendant une [session d'édition](glossaire.md#Gsessiondedition) respecte-t-elle une de ces conditions ([hors cas particuliers](cas-particuliers.md#CP-c1.12.13.14))&nbsp;?
-- Les contenus générés sont conformes au niveau RGAA&nbsp;3.0 A.
-- Pendant le processus de génération automatique, l'auteur est invité à renseigner des informations d'accessibilité relatives au niveau RGAA&nbsp;3.0 A.
-- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'outil exécute un [test d'accessibilité automatique](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 A.
-- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'auteur est invité à réaliser un [test d'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 A.
+- Les contenus générés sont conformes au niveau RGAA&nbsp;3 A.
+- Pendant le processus de génération automatique, l'auteur est invité à renseigner des informations d'accessibilité relatives au niveau RGAA&nbsp;3 A.
+- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'outil exécute un [test d'accessibilité automatique](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 A.
+- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'auteur est invité à réaliser un [test d'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 A.
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.1.2](http://www.w3.org/TR/ATAG20/#sc_b112) - [B.1.1.1](http://www.w3.org/TR/ATAG20/#sc_b111)
@@ -153,14 +153,14 @@
 
 #### Test 1.13.1 Chaque fonctionnalité de [génération automatique de contenu](glossaire.md#Gcontenugenere) après la [session d'édition](glossaire.md#Gsessiondedition) respecte-t-elle une de ces conditions (hors cas particuliers)&nbsp;?
 
-- Les contenus générés sont conformes au niveau RGAA&nbsp;3.0 AA.
-- L'auteur peut paramétrer la fonctionnalité pour produire des contenus générés conformes au niveau RGAA&nbsp;3.0 AA.
+- Les contenus générés sont conformes au niveau RGAA&nbsp;3 AA.
+- L'auteur peut paramétrer la fonctionnalité pour produire des contenus générés conformes au niveau RGAA&nbsp;3 AA.
 
 #### Test 1.13.2 Chaque fonctionnalité de génération automatique de contenu pendant une [session d'édition](glossaire.md#Gsessiondedition) respecte-t-elle une de ces conditions (hors cas particuliers)&nbsp;?
-- Les contenus générés sont conformes au niveau RGAA&nbsp;3.0 AA.
-- Pendant le processus de génération automatique, l'auteur est invité à renseigner des informations d'accessibilité relatives au niveau RGAA&nbsp;3.0 AA.
-- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'outil exécute un [test d'accessibilité automatique](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AA.
-- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'auteur est invité à réaliser un [test d'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AA.
+- Les contenus générés sont conformes au niveau RGAA&nbsp;3 AA.
+- Pendant le processus de génération automatique, l'auteur est invité à renseigner des informations d'accessibilité relatives au niveau RGAA&nbsp;3 AA.
+- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'outil exécute un [test d'accessibilité automatique](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AA.
+- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'auteur est invité à réaliser un [test d'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AA.
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.1.2](http://www.w3.org/TR/ATAG20/#sc_b112) - [B.1.1.1](http://www.w3.org/TR/ATAG20/#sc_b111)
@@ -169,14 +169,14 @@
 
 #### Test 1.14.1 Chaque fonctionnalité de [génération automatique de contenu](glossaire.md#Gcontenugenere) après la [session d'édition](glossaire.md#Gsessiondedition) respecte-t-elle une de ces conditions (hors cas particuliers)&nbsp;?
 
-- Les contenus générés sont conformes au niveau RGAA&nbsp;3.0 AAA.
-- L'auteur peut paramétrer la fonctionnalité pour produire des contenus générés conformes au niveau RGAA&nbsp;3.0 AAA.
+- Les contenus générés sont conformes au niveau RGAA&nbsp;3 AAA.
+- L'auteur peut paramétrer la fonctionnalité pour produire des contenus générés conformes au niveau RGAA&nbsp;3 AAA.
 
 #### Test 1.14.2 Chaque fonctionnalité de [génération automatique de contenu](glossaire.md#Gcontenugenere) pendant une [session d'édition](glossaire.md#Gsessiondedition) respecte-t-elle une de ces conditions (hors cas particuliers)&nbsp;?
-- Les contenus générés sont conformes au niveau RGAA&nbsp;3.0 AAA.
-- Pendant le processus de génération automatique, l'auteur est invité à renseigner des informations d'accessibilité relatives au niveau RGAA&nbsp;3.0 AAA.
-- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'outil exécute un [test d'accessibilité automatique](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AAA.
-- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'auteur est invité à réaliser un [test d'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3.0 AAA.
+- Les contenus générés sont conformes au niveau RGAA&nbsp;3 AAA.
+- Pendant le processus de génération automatique, l'auteur est invité à renseigner des informations d'accessibilité relatives au niveau RGAA&nbsp;3 AAA.
+- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'outil exécute un [test d'accessibilité automatique](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AAA.
+- À l'issue de la [génération automatique de contenu](glossaire.md#Gcontenugenere), l'auteur est invité à réaliser un [test d'accessibilité](glossaire.md#GtestAccessibilite) de niveau RGAA&nbsp;3 AAA.
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.1.2](http://www.w3.org/TR/ATAG20/#sc_b112) - [B.1.1.1](http://www.w3.org/TR/ATAG20/#sc_b111)
@@ -377,23 +377,23 @@
 
 *L'outil met à disposition de l'auteur des tests d'accessibilité, des aides à la décision et à la réparation et des rapports d'accessibilité.*
 
-### <a name="c5-1"></a>Critère 5.1 [A] Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3.0 A, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
+### <a name="c5-1"></a>Critère 5.1 [A] Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3 A, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
 
-#### Test 5.1.1 Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3.0 A, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
-
-##### Correspondances
-- ATAG&nbsp;: [B.3.1.1](http://www.w3.org/TR/ATAG20/#sc_b311)
-
-### <a name="c5-2"></a>Critère 5.2 [AA] Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3.0 AA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
-
-#### Test 5.2.1 Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3.0 AA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
+#### Test 5.1.1 Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3 A, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.3.1.1](http://www.w3.org/TR/ATAG20/#sc_b311)
 
-### <a name="c5-3"></a>Critère 5.3 [AAA] Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3.0 AAA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
+### <a name="c5-2"></a>Critère 5.2 [AA] Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3 AA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
 
-#### Test 5.3.1 Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3.0 AAA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
+#### Test 5.2.1 Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3 AA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
+
+##### Correspondances
+- ATAG&nbsp;: [B.3.1.1](http://www.w3.org/TR/ATAG20/#sc_b311)
+
+### <a name="c5-3"></a>Critère 5.3 [AAA] Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3 AAA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
+
+#### Test 5.3.1 Pour chaque contenu éditable susceptible de contenir une non-conformité de niveau RGAA&nbsp;3 AAA, l'outil propose-t-il un [test d'accessibilité](glossaire.md#GtestAccessibilite)&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.3.1.1](http://www.w3.org/TR/ATAG20/#sc_b311)
@@ -407,23 +407,23 @@
 ##### Correspondances
 - ATAG&nbsp;: [B.3.1.2](http://www.w3.org/TR/ATAG20/#sc_b312) - [B.3.1.3](http://www.w3.org/TR/ATAG20/#sc_b313)
 
-### <a name="c5-5"></a>Critère 5.5 [A] Pour chaque non-conformité de niveau RGAA&nbsp;3.0 A relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
+### <a name="c5-5"></a>Critère 5.5 [A] Pour chaque non-conformité de niveau RGAA&nbsp;3 A relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
 
-#### Test 5.5.1 Pour chaque non-conformité de niveau RGAA&nbsp;3.0 A relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
-
-##### Correspondances
-- ATAG&nbsp;: [B.3.2.1](http://www.w3.org/TR/ATAG20/#sc_b321)
-
-### <a name="c5-6"></a>Critère 5.6 [AA] Pour chaque non-conformité de niveau RGAA&nbsp;3.0 AA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
-
-#### Test 5.6.1 Pour chaque non-conformité de niveau RGAA&nbsp;3.0 AA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
+#### Test 5.5.1 Pour chaque non-conformité de niveau RGAA&nbsp;3 A relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.3.2.1](http://www.w3.org/TR/ATAG20/#sc_b321)
 
-### <a name="c5-7"></a>Critère 5.7 [AAA] Pour chaque non-conformité de niveau RGAA&nbsp;3.0 AAA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
+### <a name="c5-6"></a>Critère 5.6 [AA] Pour chaque non-conformité de niveau RGAA&nbsp;3 AA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
 
-#### Test 5.7.1 Pour chaque erreur de niveau RGAA&nbsp;3.0 AAA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
+#### Test 5.6.1 Pour chaque non-conformité de niveau RGAA&nbsp;3 AA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
+
+##### Correspondances
+- ATAG&nbsp;: [B.3.2.1](http://www.w3.org/TR/ATAG20/#sc_b321)
+
+### <a name="c5-7"></a>Critère 5.7 [AAA] Pour chaque non-conformité de niveau RGAA&nbsp;3 AAA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
+
+#### Test 5.7.1 Pour chaque erreur de niveau RGAA&nbsp;3 AAA relevée par un [test d'accessibilité](glossaire.md#GtestAccessibilite), l'auteur dispose-t-il de [moyens pour réparer](glossaire.md#GmoyensReparation)&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.3.2.1](http://www.w3.org/TR/ATAG20/#sc_b321)
@@ -467,51 +467,51 @@
 ##### Correspondances
 - ATAG&nbsp;: [A.4.1.3](http://www.w3.org/TR/ATAG20/#sc_a413)
 
-### <a name="c6-3"></a>Critère 6.3 [A] La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau A du RGAA&nbsp;3.0 ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
+### <a name="c6-3"></a>Critère 6.3 [A] La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau A du RGAA&nbsp;3 ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
 
-#### Test 6.3.1 La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 A ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
-
-##### Correspondances
-- ATAG&nbsp;: [B.1.2.2](http://www.w3.org/TR/ATAG20/#sc_b122)
-
-### <a name="c6-4"></a>Critère 6.4 [AA] La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
-
-#### Test 6.4.1 La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
+#### Test 6.3.1 La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 A ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.2.2](http://www.w3.org/TR/ATAG20/#sc_b122)
 
-### <a name="c6-5"></a>Critère 6.5 [AAA] La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
+### <a name="c6-4"></a>Critère 6.4 [AA] La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
 
-
-#### Test 6.5.1 La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3.0 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
+#### Test 6.4.1 La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.1.2.2](http://www.w3.org/TR/ATAG20/#sc_b122)
 
-### <a name="c6-6"></a>Critère 6.6 [A] [L'outil](glossaire.md#GoutilEdition) permet-il de définir des informations d'accessibilité de niveau RGAA&nbsp;3.0 A ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+### <a name="c6-5"></a>Critère 6.5 [AAA] La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
 
-#### Test 6.6.1 Les [fonctionnalités d'édition avancées](glossaire.md#Gfonctionnaliteavancees) permettent-elles de définir des informations d'accessibilité de niveau RGAA&nbsp;3.0 A ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
 
-#### Test 6.6.2 Les restrictions imposées sur les éléments éditables et les [moyens d'édition](glossaire.md#Gmoyensedition) n'empêchent pas la mise en conformité des contenus pour le niveau RGAA&nbsp;3.0 A. Cette règle est-elle respectée&nbsp;?
+#### Test 6.5.1 La [fonctionnalité de copier-coller](glossaire.md#GcopierColler) conserve-t-elle les [informations d'accessibilité](glossaire.md#GinformationsAccessibilite) de niveau RGAA&nbsp;3 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.3.4.5))&nbsp;?
+
+##### Correspondances
+- ATAG&nbsp;: [B.1.2.2](http://www.w3.org/TR/ATAG20/#sc_b122)
+
+### <a name="c6-6"></a>Critère 6.6 [A] [L'outil](glossaire.md#GoutilEdition) permet-il de définir des informations d'accessibilité de niveau RGAA&nbsp;3 A ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+
+#### Test 6.6.1 Les [fonctionnalités d'édition avancées](glossaire.md#Gfonctionnaliteavancees) permettent-elles de définir des informations d'accessibilité de niveau RGAA&nbsp;3 A ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+
+#### Test 6.6.2 Les restrictions imposées sur les éléments éditables et les [moyens d'édition](glossaire.md#Gmoyensedition) n'empêchent pas la mise en conformité des contenus pour le niveau RGAA&nbsp;3 A. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.1.1](http://www.w3.org/TR/ATAG20/#sc_b211), [B.2.2.2](http://www.w3.org/TR/ATAG20/#sc_b222), [B.2.3.1](http://www.w3.org/TR/ATAG20/#sc_b231)
 
-### <a name="c6-7"></a>Critère 6.7 [AA] [L'outil](glossaire.md#GoutilEdition) permet-il de définir des informations d'accessibilité de niveau RGAA&nbsp;3.0 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+### <a name="c6-7"></a>Critère 6.7 [AA] [L'outil](glossaire.md#GoutilEdition) permet-il de définir des informations d'accessibilité de niveau RGAA&nbsp;3 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
 
-#### Test 6.7.1 Les [fonctionnalités d'édition avancées](glossaire.md#Gfonctionnaliteavancees) permettent-elles de définir des informations d'accessibilité de niveau RGAA&nbsp;3.0 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+#### Test 6.7.1 Les [fonctionnalités d'édition avancées](glossaire.md#Gfonctionnaliteavancees) permettent-elles de définir des informations d'accessibilité de niveau RGAA&nbsp;3 AA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
 
-#### Test 6.7.2 Les restrictions imposées sur les éléments éditables et les [moyens d'édition](glossaire.md#Gmoyensedition) n'empêchent pas la mise en conformité des contenus pour le niveau RGAA&nbsp;3.0 AA. Cette règle est-elle respectée&nbsp;?
+#### Test 6.7.2 Les restrictions imposées sur les éléments éditables et les [moyens d'édition](glossaire.md#Gmoyensedition) n'empêchent pas la mise en conformité des contenus pour le niveau RGAA&nbsp;3 AA. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.1.1](http://www.w3.org/TR/ATAG20/#sc_b211), [B.2.2.2](http://www.w3.org/TR/ATAG20/#sc_b222), [B.2.3.1](http://www.w3.org/TR/ATAG20/#sc_b231)
 
-### <a name="c6-8"></a>Critère 6.8 [AAA] [L'outil](glossaire.md#GoutilEdition) permet-il de définir des informations d'accessibilité de niveau RGAA&nbsp;3.0 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+### <a name="c6-8"></a>Critère 6.8 [AAA] [L'outil](glossaire.md#GoutilEdition) permet-il de définir des informations d'accessibilité de niveau RGAA&nbsp;3 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
 
-#### Test 6.8.1 Les [fonctionnalités d'édition avancées](glossaire.md#Gfonctionnaliteavancees) permettent-elles de définir des informations d'accessibilité de niveau RGAA&nbsp;3.0 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
+#### Test 6.8.1 Les [fonctionnalités d'édition avancées](glossaire.md#Gfonctionnaliteavancees) permettent-elles de définir des informations d'accessibilité de niveau RGAA&nbsp;3 AAA ([hors cas particuliers](cas-particuliers.md#CP-c6.6.7.8))&nbsp;?
 
-#### Test 6.8.2 Les restrictions imposées sur les éléments éditables et les [moyens d'édition](glossaire.md#Gmoyensedition) n'empêchent pas la mise en conformité des contenus pour le niveau RGAA&nbsp;3.0 AAA. Cette règle est-elle respectée&nbsp;?
+#### Test 6.8.2 Les restrictions imposées sur les éléments éditables et les [moyens d'édition](glossaire.md#Gmoyensedition) n'empêchent pas la mise en conformité des contenus pour le niveau RGAA&nbsp;3 AAA. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.1.1](http://www.w3.org/TR/ATAG20/#sc_b211), [B.2.2.2](http://www.w3.org/TR/ATAG20/#sc_b222), [B.2.3.1](http://www.w3.org/TR/ATAG20/#sc_b231)
@@ -558,21 +558,21 @@
 
 ### <a name="c7-1"></a>Critère 7.1 [A] Les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont-ils accessibles&nbsp;?
 
-#### Test 7.1.1 Pour chaque ensemble de [gabarits](glossaire.md#Ggabarit), au moins un gabarit respecte le niveau RGAA&nbsp;3.0 A. Cette règle est-elle respectée&nbsp;?
+#### Test 7.1.1 Pour chaque ensemble de [gabarits](glossaire.md#Ggabarit), au moins un gabarit respecte le niveau RGAA&nbsp;3 A. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.4.1](http://www.w3.org/TR/ATAG20/#sc_b241)
 
 ### <a name="c7-2"></a>Critère 7.2 [AA] Les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont-ils accessibles&nbsp;?
 
-#### Test 7.2.1 Pour chaque ensemble de [gabarits](glossaire.md#Ggabarit), au moins un gabarit respecte le niveau RGAA&nbsp;3.0 AA. Cette règle est-elle respectée&nbsp;?
+#### Test 7.2.1 Pour chaque ensemble de [gabarits](glossaire.md#Ggabarit), au moins un gabarit respecte le niveau RGAA&nbsp;3 AA. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.4.1](http://www.w3.org/TR/ATAG20/#sc_b241)
 
 ### <a name="c7-3"></a>Critère 7.3 [AAA] Les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont-ils accessibles&nbsp;?
 
-#### Test 7.3.1 Pour chaque ensemble de [gabarits](glossaire.md#Ggabarit), au moins un gabarit respecte le niveau RGAA&nbsp;3.0 AAA. Cette règle est-elle respectée&nbsp;?
+#### Test 7.3.1 Pour chaque ensemble de [gabarits](glossaire.md#Ggabarit), au moins un gabarit respecte le niveau RGAA&nbsp;3 AAA. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.4.1](http://www.w3.org/TR/ATAG20/#sc_b241)
@@ -589,16 +589,16 @@
 ##### Correspondances
 - ATAG&nbsp;: [B.2.4.2](http://www.w3.org/TR/ATAG20/#sc_b242), [B.2.4.3](http://www.w3.org/TR/ATAG20/#sc_b243)
 
-### <a name="c7-5"></a>Critère 7.5 [AAA] Tous les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont accessibles au moins au niveau RGAA&nbsp;3.0 AA. Cette règle est-elle respectée&nbsp;?
+### <a name="c7-5"></a>Critère 7.5 [AAA] Tous les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont accessibles au moins au niveau RGAA&nbsp;3 AA. Cette règle est-elle respectée&nbsp;?
 
-#### Test 7.5.1 Tous les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont accessibles au moins au niveau RGAA&nbsp;3.0 AA. Cette règle est-elle respectée&nbsp;?
+#### Test 7.5.1 Tous les [gabarits](glossaire.md#Ggabarit) fournis par l'outil sont accessibles au moins au niveau RGAA&nbsp;3 AA. Cette règle est-elle respectée&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.2.4.4](http://www.w3.org/TR/ATAG20/#sc_b244)
 
 ### <a name="c7-6"></a>Critère 7.6 [AA] Dans chaque ensemble de [contenus pré-conçus](glossaire.md#GcontenusPreconcus), des contenus pré-conçus accessibles sont-ils proposés&nbsp;?
 
-#### Test 7.6.1 Dans chaque ensemble de contenus pré-conçus, au moins un [contenu pré-conçu](glossaire.md#GcontenusPreconcus) est accessible au niveau RGAA&nbsp;3.0 AA. Cette règle est-elle repectée&nbsp;?
+#### Test 7.6.1 Dans chaque ensemble de contenus pré-conçus, au moins un [contenu pré-conçu](glossaire.md#GcontenusPreconcus) est accessible au niveau RGAA&nbsp;3 AA. Cette règle est-elle repectée&nbsp;?
 
 #### Test 7.6.2 Le système de sélection des contenus [contenus pré-conçus](glossaire.md#GcontenusPreconcus) respecte-t-il une de ces conditions&nbsp;?
 
@@ -668,23 +668,23 @@
 ##### Correspondances
 - ATAG&nbsp;: [B.4.2.3](http://www.w3.org/TR/ATAG20/#sc_b423)
 
-### <a name="c8-7"></a>Critère 8.7 [A] [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3.0 A&nbsp;?
+### <a name="c8-7"></a>Critère 8.7 [A] [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3 A&nbsp;?
 
-#### Test 8.7.1 La documentation intègre-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3.0 A&nbsp;?
-
-##### Correspondances
-- ATAG&nbsp;: [B.4.2.1](http://www.w3.org/TR/ATAG20/#sc_b421)
-
-### <a name="c8-8"></a>Critère 8.8 [AA] [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3.0 AA&nbsp;?
-
-#### Test 8.8.1 [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3.0 AA&nbsp;? 
+#### Test 8.7.1 La documentation intègre-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3 A&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.4.2.1](http://www.w3.org/TR/ATAG20/#sc_b421)
 
-### <a name="c8-9"></a>Critère 8.9 [AAA] [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3.0 AAA&nbsp;?
+### <a name="c8-8"></a>Critère 8.8 [AA] [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3 AA&nbsp;?
 
-#### Test 8.9.1 [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3.0 AAA&nbsp;?
+#### Test 8.8.1 [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3 AA&nbsp;? 
+
+##### Correspondances
+- ATAG&nbsp;: [B.4.2.1](http://www.w3.org/TR/ATAG20/#sc_b421)
+
+### <a name="c8-9"></a>Critère 8.9 [AAA] [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3 AAA&nbsp;?
+
+#### Test 8.9.1 [La documentation](glossaire.md#GdocumentationOutil) intègre-t-elle des [exemples de contenus accessibles](glossaire.md#Gexempledecontenuaccessible) de niveau RGAA&nbsp;3 AAA&nbsp;?
 
 ##### Correspondances
 - ATAG&nbsp;: [B.4.2.1](http://www.w3.org/TR/ATAG20/#sc_b421)
@@ -702,4 +702,3 @@ Ce document est la propriété du Secrétariat général à la modernisation de 
 - [Glossaire](glossaire.md)
 - [Notes techniques](notes-techniques.md)
 - [Mappage ATAG 2.0](mappage.md)
-
